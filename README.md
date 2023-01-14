@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChristianBirkert
-- 👀 I’m interested in astrophysics
-- 🌱 I’m currently learning phyton
+- 👀 I’m interested in astrophysics and cs
+- 🌱 I’m currently learning phyton and java
 - 📫 mail@chr-birkert.de
 - 💻 https://website-birkchr.pages.dev/
 
