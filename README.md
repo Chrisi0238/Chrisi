@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Chrisi
-- 👀 I’m interested in astrophysics and cs
-- 🌱 I’m currently learning phyton and java
-- 💻 https://website-birkchr.pages.dev/
+
